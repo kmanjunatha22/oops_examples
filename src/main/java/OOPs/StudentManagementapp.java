@@ -1,7 +1,5 @@
 package OOPs;
 
-//public class StudentManagementapp {
-//}
 import java.util.*;
 
 /*
